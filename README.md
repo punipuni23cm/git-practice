@@ -8,4 +8,4 @@ conflictで変更
 GitHub上で更新
 conflict-remoteで更新
 rebase-practiceで更新
-mainで更新 conflict
+rebase-practiceで更新 conflict
