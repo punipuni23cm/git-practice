@@ -10,3 +10,4 @@ conflict-remoteで更新
 rebase-practiceで更新
 rebase-practiceで更新 conflict
 rebase
+stash練習
